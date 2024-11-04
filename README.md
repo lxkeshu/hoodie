@@ -1,2 +1,3 @@
 # hoodie
-Hoodie Website UI
+Hoodie Website UI\
+Used HTML and CSS for structuring and styling
